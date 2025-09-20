@@ -6,4 +6,4 @@ Welcome to the official organization for **ROBOMANIPAL Coding Task Phase 25**.
 
 - **Task Name:** GIT
 - **GitHub Repository:** [View Task Repository](https://github.com/TeamRoboManipal25/Task0-github)
-- **Deadline:** 23rd September
+- **Deadline:** 23rd September 11:59 pm
